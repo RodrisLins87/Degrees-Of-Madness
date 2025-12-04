@@ -81,10 +81,9 @@ Classe principal que controla todo o fluxo do jogo:
 
 # Resultado
 
-## Como Jogar
-
 ![Imagem do Resultado final do jogo Degree of Madness](https://github.com/RodrisLins87/Degrees-Of-Madness/blob/main/Degree%20of%20Madness_print.png)
 
+## Como Jogar
 1. Execute o script principal:
 
 ```bash
