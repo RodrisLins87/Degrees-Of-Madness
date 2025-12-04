@@ -86,3 +86,10 @@ Classe principal que controla todo o fluxo do jogo:
 python main.py
 
 
+---
+
+Durante o jogo, o personagem se movimenta pelas teclas: A,W,S,D.
+
+
+
+
