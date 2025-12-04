@@ -83,7 +83,7 @@ Classe principal que controla todo o fluxo do jogo:
 
 ## Como Jogar
 
-![Imagem do Resultado final do jogo Degree of Madness](image-url)
+![Imagem do Resultado final do jogo Degree of Madness](https://github.com/RodrisLins87/Degrees-Of-Madness/blob/main/Degree%20of%20Madness_print.png)
 
 1. Execute o script principal:
 
