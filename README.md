@@ -78,6 +78,9 @@ Classe principal que controla todo o fluxo do jogo:
   - Permite reiniciar o jogo clicando após Game Over  
 
 ---
+
+# Resultado
+
 ## Como Jogar
 
 1. Execute o script principal:
@@ -89,6 +92,10 @@ python main.py
 ---
 
 Durante o jogo, o personagem se movimenta pelas teclas: A,W,S,D.
+
+
+
+
 
 
 
